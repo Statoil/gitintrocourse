@@ -1,3 +1,3 @@
 First contributor.
-The first line of input.
+First: The first line of input.
 Second contributor
